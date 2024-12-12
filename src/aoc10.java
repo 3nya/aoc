@@ -1,10 +1,10 @@
-import java.util.List;
 import java.util.Scanner;
 
 public class aoc10 {
     public static int startI;
     public static int startJ;
     public static int uniquePaths;
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
